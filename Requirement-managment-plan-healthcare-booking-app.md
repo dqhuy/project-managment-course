@@ -1,6 +1,6 @@
 
 
-# 📄 **Requirements Management Plan – Healthcare Booking App**
+#  **Requirements Management Plan – Healthcare Booking App**
 
 ---
 
