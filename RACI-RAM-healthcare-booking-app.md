@@ -55,6 +55,11 @@
   * **RACI** tập trung vào mối quan hệ trách nhiệm giữa các cá nhân và công việc.
   * **RAM** gắn trực tiếp với **WBS** – dùng để phân công nguồn lực cụ thể cho từng gói công việc.
 
+  - R – Responsible: Người thực hiện trực tiếp
+  - A – Accountable: Người chịu trách nhiệm cuối cùng, thường là người ký duyệt
+  - C – Consulted: Người được tham khảo ý kiến
+  - I – Informed: Người được thông báo kết quả
+  
  ## 5. Hãy chỉ ra những vấn đề ở bảng dưới dây
 
 Trong bảng sau, mỗi dòng có thể chứa **lỗi phân công vai trò không hợp lý**, bạn hãy xác định và thảo luận lỗi đó là gì.
