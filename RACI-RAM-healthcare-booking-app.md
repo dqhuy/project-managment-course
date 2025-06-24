@@ -55,3 +55,17 @@
   * **RACI** tập trung vào mối quan hệ trách nhiệm giữa các cá nhân và công việc.
   * **RAM** gắn trực tiếp với **WBS** – dùng để phân công nguồn lực cụ thể cho từng gói công việc.
 
+ ## 5. Hãy chỉ ra những vấn đề ở bảng dưới dây
+
+Trong bảng sau, mỗi dòng có thể chứa **lỗi phân công vai trò không hợp lý**, bạn hãy xác định và thảo luận lỗi đó là gì.
+
+| **Công việc / Tác vụ**                       | **Product Owner** | **Project Manager (PM)** | **Phân tích nghiệp vụ (BA)** | **Lập trình viên** | **QC / Tester** | **Người thiết kế giao diện** |
+|----------------------------------------------|-------------------|---------------------------|-------------------------------|--------------------|------------------|------------------------------|
+| **1. Khởi tạo Dự án & Lập kế hoạch tổng thể**| R, A              | R, A                     | C                             | I                  | I                | I                            |
+| **2. Thu thập Yêu cầu hệ thống**             | C                 | A                         | R, R                          | I                  | I                | I                            |
+| **3. Thiết kế giao diện người dùng**         | C                 | C                         | A                             | I                  | I                | R, I                         |
+| **4. Viết mã nguồn**                         | I                 | A                         | I                             | R                  | I                | I                            |
+| **5. Kiểm thử ứng dụng**                     | I                 | A                         | C                             | C                  | R                | I                            |
+| **6. Triển khai ứng dụng**                   | I                 | R, A                      | I                             | I                  | I                | I                            |
+
+
