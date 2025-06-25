@@ -16,7 +16,7 @@
 
 | **Gói công việc**                         | **PM** | **Tech Lead** | **Developer** | **UI/UX Designer** | **Tester** | **Product Owner** |
 | ----------------------------------------- | ------ | ------------- | ------------- | ------------------ | ---------- | ----------------- |
-| Phân tích yêu cầu người dùng              | A      | C             |               |                    |            | R                 |
+| Phân tích yêu cầu người dùng              | A      | C             |               |                    |  I         | R                 |
 | Thiết kế giao diện người dùng             | C      |               |               | R/A                |            | C                 |
 | Phát triển API đặt lịch                   | C      | A             | R             |                    |            | C                 |
 | Phát triển frontend                       | C      | C             | R             |                    |            | A                 |
